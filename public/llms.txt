@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://arthur-vape-a35ad3de.zappy5.app
+https://example.com
 ארתור ויפ מציע את מיטב הסיגריות האלקטרוניות המומלצות לשנת 2024. חנות ויפ בישראל עם מגוון עצום של וויפים איכותיים במחירים שלא תמצא בשום מקום אחר. הזמן עכשיו!
 
 ### תכונות
-https://arthur-vape-a35ad3de.zappy5.app/features
+https://example.com/features
 גלה את כל היתרונות הבלעדיים של מוצרי ארתור ויפ — טכנולוגיה מתקדמת, טעמים עשירים ועיצוב מנצח. סיגריה אלקטרונית מומלצת 2024 שמשנה את חוויית הוויפינג שלך לגמרי. גלה עוד!
 
 ### אודות
-https://arthur-vape-a35ad3de.zappy5.app/about
+https://example.com/about
 ארתור ויפ נוסד מתוך תשוקה אמיתית לעולם הוויפינג. אנחנו החנות המובילה בישראל עם ניסיון עשיר, שירות אישי ומחויבות לאיכות. הכירו את הצוות שמאחורי הוויפים הטובים ביותר בשוק!
 
 ### צור קשר
-https://arthur-vape-a35ad3de.zappy5.app/contact
+https://example.com/contact
 יש לך שאלות על וויפים או סיגריות אלקטרוניות? צוות המומחים של ארתור ויפ זמין עבורך עכשיו! צור קשר ותקבל המלצה אישית ומותאמת בדיוק לצרכים שלך. אנחנו כאן בשבילך!
 
 ### Products
-https://arthur-vape-a35ad3de.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Arthur vape
 
 ### Cart
-https://arthur-vape-a35ad3de.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://arthur-vape-a35ad3de.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://arthur-vape-a35ad3de.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://arthur-vape-a35ad3de.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://arthur-vape-a35ad3de.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://arthur-vape-a35ad3de.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Arthur vape
 
 ### Category
-https://arthur-vape-a35ad3de.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Arthur vape
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://arthur-vape-a35ad3de.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://arthur-vape-a35ad3de.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://arthur-vape-a35ad3de.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ A product sales landing page focused on converting visitors into buyers. The bus
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://arthur-vape-a35ad3de.zappy5.app/sitemap.xml
-- Robots: https://arthur-vape-a35ad3de.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://arthur-vape-a35ad3de.zappy5.app/llms-full.txt
-- Products (JSON): https://arthur-vape-a35ad3de.zappy5.app/products.json
-- Products (Google Merchant RSS): https://arthur-vape-a35ad3de.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
